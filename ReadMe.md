@@ -1,4 +1,4 @@
-Axapta LIMS Integration OSGI Bundles
+Camel Spring Playground
 ====================================
 
 To build this project use
