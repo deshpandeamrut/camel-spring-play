@@ -107,7 +107,7 @@
 					<instructions>
 						<Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
 						<Bundle-Version>${project.version}</Bundle-Version>
-						<Export-Package>com.eurofins.eesb.axapta.vwr*;version=${project.version}</Export-Package>
+						<Export-Package>com.camelplay.amrut*;version=${project.version}</Export-Package>
 						<Import-Package>*;version=!</Import-Package>
 						<DynamicImport-Package>*</DynamicImport-Package>
 					</instructions>
