@@ -4,15 +4,15 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<artifactId>eesb-axapta-lims-integration</artifactId>
-		<groupId>com.eurofins.eesb</groupId>
+		<artifactId>camel-spring-play</artifactId>
+		<groupId>com.camelplay.amrut</groupId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>eesb-axapta-vwr-adapter</artifactId>
+	<artifactId>camel-spring-play</artifactId>
 	<packaging>bundle</packaging>
 
-	<name>eESB :: Axapta VWR Adapter</name>
+	<name>Camel Spring Play</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
